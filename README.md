@@ -49,7 +49,7 @@ If you received a ZIP:
 
 Or if using Git:
 ```bash
-git clone https://github.com/your-username/amazon-screenshot-bot.git
+git clone https://github.com/MUKUNDSINGHKUSHWAHA/amazon-screenshot-bot.git
 cd amazon-screenshot-bot
 ```
 
