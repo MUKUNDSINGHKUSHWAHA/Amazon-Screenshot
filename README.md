@@ -10,7 +10,7 @@ A Python desktop tool that automates taking **mobile-view screenshots** of Amazo
 ✅ Simple UI for uploading and running  
 ✅ Supports `.csv`, `.xlsx` files (no headers required)  
 ✅ Emulates **Pixel 7 mobile view** using Selenium  
-✅ Scrolls 5 full screen beyond the fold before screenshot (Ensure Top of Search) 
+✅ Scrolls 5 full screen beyond the fold before screenshot (Ensure Top of Search)  
 ✅ Automatically saves screenshots in a timestamped folder  
 ✅ Handles CAPTCHA with retry logic  
 ✅ Logs failed keywords in Excel  
