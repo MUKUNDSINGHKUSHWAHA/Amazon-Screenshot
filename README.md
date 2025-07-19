@@ -1,6 +1,9 @@
 
 # 🛒 Amazon Screenshot Bot (Mobile View)
 
+**⚠️ Warning:** This code is currently broken/not functional.Please do not use in production until fixed.
+
+---
 A Python desktop tool that automates taking **mobile-view screenshots** of Amazon.in search results based on keywords from a CSV or Excel file.
 
 ---
